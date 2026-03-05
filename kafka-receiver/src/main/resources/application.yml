@@ -1,0 +1,10 @@
+spring:
+  cloud:
+    stream:
+      function:
+        definition: receiveBox
+      bindings:
+        receiveBox-in-0.destination: kp-2
+  output:
+    ansi:
+      enabled: always

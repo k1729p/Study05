@@ -1,0 +1,3 @@
+${AnsiColor.BRIGHT_CYAN}████████████████████████████████████████████████████████████████████████████████
+${AnsiColor.BRIGHT_CYAN}████████████████████████████████████████████████████████▌${AnsiColor.DEFAULT}STUDY 05 KAFKA-SENDER${AnsiColor.BRIGHT_CYAN}▐█
+${AnsiColor.BRIGHT_CYAN}████████████████████████████████████████████████████████████████████████████████${AnsiColor.DEFAULT}

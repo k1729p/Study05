@@ -1,0 +1,11 @@
+spring:
+  cloud:
+    stream:
+      function:
+        definition: sendBox
+      bindings:
+        sendBox-out-0.destination: kp-1
+      poller.fixed-delay: 3000
+  output:
+    ansi:
+      enabled: always

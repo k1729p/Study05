@@ -1,0 +1,3 @@
+${AnsiColor.BRIGHT_YELLOW}████████████████████████████████████████████████████████████████████████████████
+${AnsiColor.BRIGHT_YELLOW}██████████████████████████████████████████████████████▌${AnsiColor.DEFAULT}STUDY 05 KAFKA-RECEIVER${AnsiColor.BRIGHT_YELLOW}▐█
+${AnsiColor.BRIGHT_YELLOW}████████████████████████████████████████████████████████████████████████████████${AnsiColor.DEFAULT}

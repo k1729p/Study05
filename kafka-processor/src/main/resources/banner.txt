@@ -1,0 +1,3 @@
+${AnsiColor.BRIGHT_MAGENTA}████████████████████████████████████████████████████████████████████████████████
+${AnsiColor.BRIGHT_MAGENTA}█████████████████████████████████████████████████████▌${AnsiColor.DEFAULT}STUDY 05 KAFKA-PROCESSOR${AnsiColor.BRIGHT_MAGENTA}▐█
+${AnsiColor.BRIGHT_MAGENTA}████████████████████████████████████████████████████████████████████████████████${AnsiColor.DEFAULT}

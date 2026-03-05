@@ -1,0 +1,11 @@
+spring:
+  cloud:
+    stream:
+      function:
+        definition: processBox
+      bindings:
+        processBox-in-0.destination: kp-1
+        processBox-out-0.destination: kp-2
+  output:
+    ansi:
+      enabled: always
